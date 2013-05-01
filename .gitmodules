@@ -1,0 +1,3 @@
+[submodule "GenericSubModule"]
+	path = GenericSubModule
+	url = https://HerokuUser:somepassword1@github.com/HerokuUser/GenericSubModule.git
